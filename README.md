@@ -31,3 +31,25 @@ whatnext/
 ├── next.config.mjs
 ├── package.json
 ├── tsconfig.json
+
+---
+
+## ⚙️ Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/vanamgayathri13/whatnext.git
+   cd whatnext
+Install dependencies
+npm install
+or
+pnpm 
+Run the project locally
+npm run dev
+or
+pnpm dev
+📌 Requirements
+Node.js (version 16+ recommended)
+
+npm or pnp
